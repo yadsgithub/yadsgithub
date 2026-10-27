@@ -39,11 +39,49 @@ currently : building, experimenting, and sharpening the fundamentals
 | [**Sorting Comparison**](https://github.com/yadsgithub/ADS-Project-Sorting-Comparison) | A library-themed visual comparison of Bubble Sort and Merge Sort | HTML, CSS, JavaScript, Algorithms |
 | [**Inventory & Sales Management**](https://github.com/yadsgithub/OOP-Inventory-Sales-Management-System) | POS test scenarios covering products, stock, sales, reporting, and refunds | C#, SQL, OOP |
 
-## Tools I reach for
+## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,tailwind,firebase,git,github,vscode&perline=10" alt="C Sharp, .NET, JavaScript, HTML, CSS, Tailwind CSS, Firebase, Git, GitHub, and Visual Studio Code" />
-</p>
+### Languages
+
+**Python · C# · C++ · R · MATLAB · Visual Basic · JavaScript · HTML · CSS · SQL**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,cs,cpp,r,matlab,visualbasic,javascript,html,css&perline=9" alt="Python, C Sharp, C++, R, MATLAB, Visual Basic, JavaScript, HTML, and CSS" />
+
+### Frameworks & application development
+
+**ASP.NET · .NET · Tailwind CSS · Firebase**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,tailwindcss,firebase&perline=6" alt="ASP.NET and .NET, Tailwind CSS, and Firebase" />
+
+### AI & data science
+
+**Retrieval-Augmented Generation (RAG) · Pinecone Vector Database · Jupyter Notebook · Google Colab · Data Science**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone,jupyter,googlecolab&perline=6" alt="Pinecone, Jupyter Notebook, and Google Colab" />
+
+### Databases & analytics
+
+**MongoDB · SQL · SQL Server · SQL Server Management Studio (SSMS) · Power BI**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,powerbi&perline=6" alt="MongoDB and Power BI" />
+
+### Cloud & automation
+
+**AWS · n8n · Microsoft Power Automate**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aws,n8n,powerautomate&perline=6" alt="AWS, n8n, and Microsoft Power Automate" />
+
+### Development & networking tools
+
+**Visual Studio · Visual Studio Code · Git · GitHub · Huawei eNSP**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,git,github&perline=6" alt="Visual Studio, Visual Studio Code, Git, and GitHub" />
+
+### Design & media
+
+**Figma · Adobe Photoshop · Adobe Illustrator · DaVinci Resolve · Canva**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,photoshop,illustrator,davinci,canva&perline=6" alt="Figma, Adobe Photoshop, Adobe Illustrator, DaVinci Resolve, and Canva" />
 
 ## GitHub at a glance
 
